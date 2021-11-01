@@ -11,6 +11,8 @@
 		680476FE272D8409008D82F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680476FD272D8409008D82F0 /* ContentView.swift */; };
 		68047700272D840D008D82F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 680476FF272D840D008D82F0 /* Assets.xcassets */; };
 		68047703272D840D008D82F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68047702272D840D008D82F0 /* Preview Assets.xcassets */; };
+		68EA0379272EB8A3006F94A2 /* CTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68EA0378272EB8A2006F94A2 /* CTextField.swift */; };
+		68EA037D272ED594006F94A2 /* CButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68EA037C272ED594006F94A2 /* CButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		680476FD272D8409008D82F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		680476FF272D840D008D82F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		68047702272D840D008D82F0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		68EA0378272EB8A2006F94A2 /* CTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTextField.swift; sourceTree = "<group>"; };
+		68EA037C272ED594006F94A2 /* CButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				680476FD272D8409008D82F0 /* ContentView.swift */,
 				680476FF272D840D008D82F0 /* Assets.xcassets */,
 				68047701272D840D008D82F0 /* Preview Content */,
+				68EA0378272EB8A2006F94A2 /* CTextField.swift */,
+				68EA037C272ED594006F94A2 /* CButton.swift */,
 			);
 			path = GameStream;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				680476FE272D8409008D82F0 /* ContentView.swift in Sources */,
+				68EA037D272ED594006F94A2 /* CButton.swift in Sources */,
+				68EA0379272EB8A3006F94A2 /* CTextField.swift in Sources */,
 				680476FC272D8409008D82F0 /* GameStreamApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
